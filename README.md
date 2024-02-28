@@ -36,6 +36,4 @@ This Burp extension allows you to dynamically add or update the DPoP (Demonstrat
 
 Contributions are welcome! If you encounter any issues or have suggestions for improvements, please open an issue or submit a pull request.
 
-## License
-
-This Burp extension is licensed under the [MIT License](link-to-license-file).
+ 
