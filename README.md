@@ -11,7 +11,7 @@ This Burp extension allows you to dynamically add or update the DPoP (Demonstrat
 
 ## Installation
 
-1. Download the `DPoPConfigurator.jar` file from the [releases]([link-to-releases](https://github.com/Serhatcck/Burp-Extension-DPoP/releases/)) section.
+1. Download the `DPoPConfigurator.jar` file from the [releases]([link-to-releases])) section.
 2. Open Burp Suite.
 3. Go to the **Extender > Extensions** tab.
 4. Click on the "Add" button.
