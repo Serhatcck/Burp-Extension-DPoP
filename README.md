@@ -29,7 +29,8 @@ This Burp extension allows you to dynamically add or update the DPoP (Demonstrat
 
 ## Screenshots
 
-![Screenshot 1](![image](https://github.com/Serhatcck/Burp-Extension-DPoP/assets/49496846/88530b44-e7c9-49b1-a176-b366c92767e6))
+![image](https://github.com/Serhatcck/Burp-Extension-DPoP/assets/49496846/bd057e42-1c13-4d2c-8df8-ccc834647625)
+
 
 ## Contributing
 
